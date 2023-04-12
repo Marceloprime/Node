@@ -1,2 +1,0 @@
-Comando para lista todas as versões de node disponiveis:
-nvm ls-remote
